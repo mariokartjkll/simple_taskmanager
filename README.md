@@ -1,1 +1,1 @@
-# open_projects
+# Simple Task Manager
